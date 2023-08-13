@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##############################
-# Nom    : 04-DutchFlag.sh  #
+# Nom    : 04-DutchFlag.sh   #
 # Auteur : Antoine Even      #
 # Date   : 13/08/2023        #
 ##############################
