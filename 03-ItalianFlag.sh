@@ -24,3 +24,4 @@ function line() {
 ############### Main
 for i in {1..20}; do line; done
 echo
+
